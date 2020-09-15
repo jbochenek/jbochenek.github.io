@@ -1,9 +1,11 @@
-title: Jenni Bochenek # your name (or website title) here
-logo: "/images/rain-snow-background-storm-effect-315446.jpg?raw=true" # your photo (or logo) here
+title: Jenniifer L<br>Bochenek # your name (or website title) here
+logo: #"/images/rain-snow-background-storm-effect-315446.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Research Associate
   <br>
   Educational Testing Service
+  <br>
+  Princeton, NJ
   <br><br>
   M.S. Data Science (March 2021)
   <br>
@@ -11,7 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   B.S. Psychology (May 2011)
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jennifer-bochenek-733b0211/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
