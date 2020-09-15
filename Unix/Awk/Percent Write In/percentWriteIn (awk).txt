@@ -1,0 +1,19 @@
+#!/usr/bin/awk -f
+BEGIN{
+        total=0
+        subset=0
+        FNR==1
+        FS="\t"}
+{
+{total+=$7}
+
+if ($5=="Write In")
+        {subset+=$7}
+
+
+}
+END{ {answer=subset/total}
+{print answer*100"%"} }
+
+#run with awk -f  percentWriteIn 2012_GENERAL.txt
+
