@@ -1,0 +1,14 @@
+Circle 22 3 4 5
+Square 12 2 45 3
+Sphere 19 12 5
+Tetrahedron 22 33 44
+Triangle 1 26 6
+Square 8 3 5 
+Circle 23 11 8 2
+Cube 198 2 6 127
+Square 2 33 2
+Tetrahedron 10 6 49
+Triangle 2 19 43 23
+Sphere 20 12 3
+Triangle 2 3 -2 
+Circle 1 2 -3 
