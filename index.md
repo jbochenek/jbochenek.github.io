@@ -19,18 +19,32 @@
 
 ### Coding
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### Unix
+
+- [Awk: Percent Write In](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Awk/Percent%20Write%20In)
+- [Awk: Compute Expenses](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Awk/Compute%20Expenses)
+- [Bash: Log File Rotation](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Bash/Log%20File%20Rotation)
+- [Python: Argparser for Baseball Stats](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Python/Baseball)
+- [Python: Compute Expense](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Python/Compute%20Expenses)
+
+#### Java
+- [2D Array](https://github.com/jbochenek/jbochenek.github.io/tree/master/Java/2D%20Array)
+- [Inheritance](https://github.com/jbochenek/jbochenek.github.io/tree/master/Java/Inheritance)
+- [Recursion and Iteration](https://github.com/jbochenek/jbochenek.github.io/tree/master/Java/Recursion%20and%20Iteration)
+- [Stacks and Switches](https://github.com/jbochenek/jbochenek.github.io/tree/master/Java/Stacks%20and%20Switches)
+
+#### Python
+- [Enhanced E-Reader](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Enhanced%20E-Reader)
+- [Map of China](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Map%20of%20China)
+- [Market Basket](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Market%20Basket)
+- [Webscraping of Newspaper Articles](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Webscraping%20of%20Newspaper%20Articles)
 
 ---
 
 ### Presentations
-- [Mission Statements](link)?
-- [Universities and Data Analytics](link)
-- [NERA: Faculty Feedback on a Proposed Measure of Non-Cognitive/Soft-Skills Features for Use in Graduate Schools](link)
+- [Mission Statements](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/Mission%20Statements.pptx?raw=true)
+- [Universities and Data Analytics](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/Universities%20and%20Data%20Analytics.pptx?raw=true)
+- [NERA: Faculty Feedback on a Proposed Measure of Non-Cognitive/Soft-Skills Features for Use in Graduate Schools](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/JLB%20NERA%20Faculty%20Feedback%20on%20a%20Proposed%20Measure%20of%20Non-Cognitive%20v2.pptx?raw=true)
 
 
 ---
