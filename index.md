@@ -44,6 +44,7 @@
 - [Twitter, Blogs, and News NLP Analysis](https://rpubs.com/jbochenek/345696)
 - [Shiny App: Text Prediction](https://jbochenek.shinyapps.io/TextPrediction/)
 - [Shiny App: Wordclouds of Kahlil Gibran](https://jbochenek.shinyapps.io/Words/)
+
 ---
 
 ### Presentations
