@@ -8,12 +8,12 @@
 <img src="images/2-Year%20institutions.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MOOC Courses and Enrollments by Platform](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/MOOC_16002779723560/Story1?publish=yes)
+<img src="images/MOOC.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shiny App Wordcloud of Kahlil Gibran's Poems](https://jbochenek.shinyapps.io/Words/)
+<img src="images/Shiny.png?raw=true"/>
 
 ---
 
