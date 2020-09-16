@@ -5,7 +5,7 @@
 ### Data Visualizations
 
 [Location of 2-Year Institutions](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/IPEDS2018CommunityColleges/AllwithFilter)
-<img src="images/2-Year%20institutions.png?raw=true" width="320"/>
+<img src="images/2-Year%20institutions.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
