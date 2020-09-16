@@ -4,8 +4,8 @@
 
 ### Data Visualizations
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Location of 2-Year Institutions](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/IPEDS2018CommunityColleges/AllwithFilter)
+<img src="images/https://github.com/jbochenek/jbochenek.github.io/blob/master/images/2-Year%20institutions.png?raw=true" width = "320px"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
