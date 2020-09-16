@@ -39,6 +39,11 @@
 - [Market Basket](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Market%20Basket)
 - [Webscraping of Newspaper Articles](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Webscraping%20of%20Newspaper%20Articles)
 
+#### R
+- [Bloomington, IN Graffiti in Leaflet](https://rpubs.com/jbochenek/341005)
+- [Twitter, Blogs, and News NLP Analysis](https://rpubs.com/jbochenek/345696)
+- [Shiny App: Text Prediction](https://jbochenek.shinyapps.io/TextPrediction/)
+- [Shiny App: Wordclouds of Kahlil Gibran](https://jbochenek.shinyapps.io/Words/)
 ---
 
 ### Presentations
