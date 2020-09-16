@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Visualizations
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Coding
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +27,10 @@
 
 ---
 
-
+### Presentations
+- [Mission Statements](link)?
+- [Universities and Data Analytics](link)
+- [NERA: Faculty Feedback on a Proposed Measure of Non-Cognitive/Soft-Skills Features for Use in Graduate Schools](link)
 
 
 ---
