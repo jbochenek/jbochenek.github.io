@@ -9,11 +9,11 @@
 
 ---
 [MOOC Courses and Enrollments by Platform](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/MOOC_16002779723560/Story1?publish=yes)
-<img src="images/MOOC.png?raw=true"/>
+<img src="images/MOOC.PNG?raw=true"/>
 
 ---
 [Shiny App Wordcloud of Kahlil Gibran's Poems](https://jbochenek.shinyapps.io/Words/)
-<img src="images/Shiny.png?raw=true"/>
+<img src="images/Shiny.PNG?raw=true"/>
 
 ---
 
