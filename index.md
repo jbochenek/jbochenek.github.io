@@ -3,6 +3,20 @@ Selected works
 
 ---
 
+### Data Visualizations
+
+[Location of 2-Year Institutions](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/IPEDS2018CommunityColleges/AllwithFilter)
+<img src="images/2-Year%20institutions.png?raw=true"/>
+
+---
+[MOOC Courses and Enrollments by Platform](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/MOOC_16002779723560/Story1?publish=yes)
+<img src="images/MOOC.PNG?raw=true"/>
+
+---
+[Shiny App Wordcloud of Kahlil Gibran's Poems](https://jbochenek.shinyapps.io/Words/)
+<img src="images/Shiny.PNG?raw=true"/>
+---
+
 ### Coding
 
 #### Java
@@ -29,21 +43,6 @@ Selected works
 - [Bash: Log File Rotation](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Bash/Log%20File%20Rotation)
 - [Python: Argparser for Baseball Stats](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Python/Baseball)
 - [Python: Compute Expense](https://github.com/jbochenek/jbochenek.github.io/tree/master/Unix/Python/Compute%20Expenses)
-
----
-
-### Data Visualizations
-
-[Location of 2-Year Institutions](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/IPEDS2018CommunityColleges/AllwithFilter)
-<img src="images/2-Year%20institutions.png?raw=true"/>
-
----
-[MOOC Courses and Enrollments by Platform](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/MOOC_16002779723560/Story1?publish=yes)
-<img src="images/MOOC.PNG?raw=true"/>
-
----
-[Shiny App Wordcloud of Kahlil Gibran's Poems](https://jbochenek.shinyapps.io/Words/)
-<img src="images/Shiny.PNG?raw=true"/>
 
 ---
 
