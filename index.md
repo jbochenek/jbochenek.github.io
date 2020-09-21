@@ -57,3 +57,5 @@ Selected works
 - [SQL: Development of an Educational Assessment Database](https://github.com/jbochenek/jbochenek.github.io/blob/master/Papers/SQL/Write-up%20of%20a%20SQL%20database.pdf)
 - [Data Visualization: Review of MOOC platforms](https://github.com/jbochenek/jbochenek.github.io/blob/master/Papers/MOOC%20Data%20Visualization%20Paper/Review%20of%20MOOC%20Platforms.pdf)
 - [Orange: Data Mining in Orange](https://github.com/jbochenek/jbochenek.github.io/tree/master/Papers/Orange)
+
+---
