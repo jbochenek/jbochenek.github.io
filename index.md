@@ -33,7 +33,7 @@ Selected works
 
 #### R
 - [Bloomington, IN Graffiti in Leaflet](https://rpubs.com/jbochenek/341005)
-- [Twitter, Blogs, and News NLP Analysis](https://rpubs.com/jbochenek/345696)
+- [NLP Analysis of Twitter, Blogs, and News Articles](https://rpubs.com/jbochenek/345696)
 - [Shiny App: Text Prediction](https://jbochenek.shinyapps.io/TextPrediction/)
 - [Shiny App: Wordclouds of Kahlil Gibran](https://jbochenek.shinyapps.io/Words/)
 
@@ -48,10 +48,12 @@ Selected works
 
 ### Presentations 
 - [Mission Statements](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/Mission%20Statements.pptx?raw=true)
-- [Universities and Data Analytics](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/Universities%20and%20Data%20Analytics.pptx?raw=true)
 - [NERA: Faculty Feedback on a Proposed Measure of Non-Cognitive/Soft-Skills Features for Use in Graduate Schools](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/JLB%20NERA%20Faculty%20Feedback%20on%20a%20Proposed%20Measure%20of%20Non-Cognitive%20v2.pptx?raw=true)
-
+- [Universities and Data Analytics](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/Universities%20and%20Data%20Analytics.pptx?raw=true)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Papers
+- [SQL: Development of an Educational Assessment Database](https://github.com/jbochenek/jbochenek.github.io/blob/master/Papers/SQL/Write-up%20of%20a%20SQL%20database.pdf)
+- [Data Visualization: Review of MOOC platforms](https://github.com/jbochenek/jbochenek.github.io/blob/master/Papers/MOOC%20Data%20Visualization%20Paper/Review%20of%20MOOC%20Platforms.pdf)
+- [Orange: Data Mining in Orange](https://github.com/jbochenek/jbochenek.github.io/tree/master/Papers/Orange)
