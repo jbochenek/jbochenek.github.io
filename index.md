@@ -26,9 +26,10 @@ Selected works
 - [Stacks and Switches](https://github.com/jbochenek/jbochenek.github.io/tree/master/Java/Stacks%20and%20Switches)
 
 #### Python
-- [Enhanced E-Reader](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Enhanced%20E-Reader)
-- [Map of China](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Map%20of%20China)
-- [Market Basket](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Market%20Basket)
+- [Enhanced E-Reader](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Enhanced%20E-Reader/Enhanced_E_Reader%20(1).ipynb)
+- [Map of China](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Map%20of%20China/China%20Map%20for%20Lydia%20Liu%20project.ipynb)
+- [Market Basket](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Market%20Basket/Market%20Basket%20Example.ipynb)
+- [OECD: Improving the Better Life Index](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/OECD/Improving_the_OECD_Better_Life_Index.ipynb)
 - [Webscraping of Newspaper Articles](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Webscraping%20of%20Newspaper%20Articles)
 
 #### R
