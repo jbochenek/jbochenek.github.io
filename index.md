@@ -27,6 +27,7 @@ Selected works
 
 #### Python
 - [Enhanced E-Reader](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Enhanced%20E-Reader/Enhanced_E_Reader%20(1).ipynb)
+- [Machine Learning and Regression: Exploring Classifier Transferability](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Machine%20Learning/Machine%20Learning%20and%20Regression-Exploring%20Classifier%20Transferability.ipynb)
 - [Map of China](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Map%20of%20China/China%20Map%20for%20Lydia%20Liu%20project.ipynb)
 - [Market Basket](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Market%20Basket/Market%20Basket%20Example.ipynb)
 - [N-Gram Modeling](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/N-Gram%20Modeling/NGrams%20Model.ipynb)
