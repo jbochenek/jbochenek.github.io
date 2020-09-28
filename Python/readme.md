@@ -5,6 +5,8 @@
   - An example of code that takes in information about different regions of mainland China and provides a map as output. This map was used for a research report.
 - [Market Basket](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Market%20Basket/Market%20Basket%20Example.ipynb)
   - This code takes a Kaggle dataset and uses it to show how market basket analysis (affinity analysis) works. 
+- [N-Gram Modeling](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/N-Gram%20Modeling/NGrams%20Model.ipynb)
+  - A example of using TSNE in scikit-learn to model the distances between unigrams, and also a train/test classifier for determining if we could build a ML model to determine if it could use the words we wanted could be extracted from a larger dataset of n-grams.
 - [OECD: Improving the Better Life Index](https://colab.research.google.com/drive/1uC-gdfupyNUDd_L9UnGvpqhuYVh-aKse?usp=sharing)
   - This analysis takes several different metrics, such as the OECD's Better Life Index, cost of living index, happy life years, and World Banks' healthcare coverage data and combines them to perform different analyses to determine if improvement can be made over and above the BLI. Techniques used include min-max normalization, correlations, similarity metrics, and k-means clustering. 
 - [Prime Factors and Computational Timing](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Prime%20Factors/Primefactors.py)
