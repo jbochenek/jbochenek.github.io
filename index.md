@@ -29,6 +29,7 @@ Selected works
 - [Enhanced E-Reader](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Enhanced%20E-Reader/Enhanced_E_Reader%20(1).ipynb)
 - [Map of China](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Map%20of%20China/China%20Map%20for%20Lydia%20Liu%20project.ipynb)
 - [Market Basket](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Market%20Basket/Market%20Basket%20Example.ipynb)
+- [N-Gram Modeling](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/N-Gram%20Modeling/NGrams%20Model.ipynb)
 - [OECD: Improving the Better Life Index](https://colab.research.google.com/drive/1uC-gdfupyNUDd_L9UnGvpqhuYVh-aKse?usp=sharing)
 - [Prime Factors and Computational Timing](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Prime%20Factors/Primefactors.py)
 - [Webscraping of Newspaper Articles](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Webscraping%20of%20Newspaper%20Articles)
