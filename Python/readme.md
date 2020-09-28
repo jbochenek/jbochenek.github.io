@@ -1,6 +1,8 @@
 #### Python
 - [Enhanced E-Reader](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Enhanced%20E-Reader/Enhanced_E_Reader%20(1).ipynb)
   - Uses Project Gutenburg book IDs to pull corresponding book files. The code then runs each paragraph through a wikifier to find wiki links to relevant content and adds in the links to the text. The final output is a HTML file virtually identicle to the input except that it now has wiki links intersped throughout the text to help provide context to readers should they choose. 
+- [Machine Learning and Regression: Exploring Classifier Transferability](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Machine%20Learning/Machine%20Learning%20and%20Regression-Exploring%20Classifier%20Transferability.ipynb)
+  - Showing training and testing one dataset and how classifiers can be trained on one set and tested on another similar dataset. For this, I showed how it is easy to do so for sentiment, good or bad reviews, compared to how it is more difficult to do so to determine fake vs real reviews. 
 - [Map of China](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Map%20of%20China/China%20Map%20for%20Lydia%20Liu%20project.ipynb)
   - An example of code that takes in information about different regions of mainland China and provides a map as output. This map was used for a research report.
 - [Market Basket](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Market%20Basket/Market%20Basket%20Example.ipynb)
