@@ -1,0 +1,13 @@
+#### Python
+- [Enhanced E-Reader](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Enhanced%20E-Reader/Enhanced_E_Reader%20(1).ipynb)
+  - Uses Project Gutenburg book IDs to pull corresponding book files. The code then runs each paragraph through a wikifier to find wiki links to relevant content and adds in the links to the text. The final output is a HTML file virtually identicle to the input except that it now has wiki links intersped throughout the text to help provide context to readers should they choose. 
+- [Map of China](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Map%20of%20China/China%20Map%20for%20Lydia%20Liu%20project.ipynb)
+  - An example of code that takes in information about different regions of mainland China and provides a map as output. This map was used for a research report.
+- [Market Basket](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Market%20Basket/Market%20Basket%20Example.ipynb)
+  - This code takes a Kaggle dataset and uses it to show how market basket analysis (affinity analysis) works. 
+- [OECD: Improving the Better Life Index](https://colab.research.google.com/drive/1uC-gdfupyNUDd_L9UnGvpqhuYVh-aKse?usp=sharing)
+  - This analysis takes several different metrics, such as the OECD's Better Life Index, cost of living index, happy life years, and World Banks' healthcare coverage data and combines them to perform different analyses to determine if improvement can be made over and above the BLI. Techniques used include min-max normalization, correlations, similarity metrics, and k-means clustering. 
+- [Prime Factors and Computational Timing](https://github.com/jbochenek/jbochenek.github.io/blob/master/Python/Prime%20Factors/Primefactors.py)
+  - This code was used to answer a question about computational timing while the computer was under different stress levels.
+- [Webscraping of Newspaper Articles](https://github.com/jbochenek/jbochenek.github.io/tree/master/Python/Webscraping%20of%20Newspaper%20Articles)
+  - This is a data collection that webscrapes online newspaper articles every hour using Google news RSS feeds. The data is stored in a JSON file, and seperately the article titles and frequency of words per hour and per day are stored for ease of later analysis. 
