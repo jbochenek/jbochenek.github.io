@@ -4,19 +4,14 @@ Selected works
 ---
 
 ### Data Visualizations
-
 [COVID-19: Impacts on Housing Security Across the US](https://medium.com/me/stats/post/6c9d787ce2d)
-<img scr="images/covidweeklytotalpositiveper.gif?raw=true"/>
-
+<img src="images/covidweeklytotalpositiveper.gif?raw=true"/>
 ---
-
 [Location of 2-Year Institutions](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/IPEDS2018CommunityColleges/AllwithFilter)
 <img src="images/2-Year%20institutions.png?raw=true"/>
-
 ---
 [MOOC Courses and Enrollments by Platform](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/MOOC_16002779723560/Story1?publish=yes)
 <img src="images/MOOC.PNG?raw=true"/>
-
 ---
 [Shiny App Wordcloud of Kahlil Gibran's Poems](https://jbochenek.shinyapps.io/Words/)
 <img src="images/Shiny.PNG?raw=true"/>
