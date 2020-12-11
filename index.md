@@ -5,6 +5,8 @@ Selected works
 
 ### Data Visualizations
 
+---
+
 [COVID-19: Impacts on Housing Security Across the US](https://jbochenek.medium.com/covid-19-impact-on-housing-security-across-the-u-s-6c9d787ce2d)
 <img src="images/covidweeklytotalpositiveper.gif?raw=true"/>
 
