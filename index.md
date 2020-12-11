@@ -5,6 +5,10 @@ Selected works
 
 ### Data Visualizations
 
+[COVID-19: Impacts on Housing Security Across the US](https://medium.com/me/stats/post/6c9d787ce2d)
+<img scr="images/covidweeklytotalpositiveper.gif?raw=true"/>
+
+
 [Location of 2-Year Institutions](https://public.tableau.com/profile/jennifer.bochenek#!/vizhome/IPEDS2018CommunityColleges/AllwithFilter)
 <img src="images/2-Year%20institutions.png?raw=true"/>
 
