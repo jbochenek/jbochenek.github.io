@@ -18,7 +18,7 @@ group_name.add_argument("-g", "--given-name",  help="Print the player name as 'n
 group_batting.add_argument("-b", "--batting-avg",  help="Print the player batting avg", action = "store_true", dest = "b", default = True)
 group_batting.add_argument("-a", "--at-bats-per-home-run",  help="Print the player at bats per home run instead of batting average", action = "store_true", dest = "a")
 parser.add_argument("-t", "--top",  help="Print the top N players for a given statistic. Default is five",type=int, default = 5, dest = "t", action = "store")
-parser.add_argument("-s", "--skip",  help="Print the player at bats per home run instead of batting average",type=int, default = 0, dest = "s", action = "store")
+parser.add_argument("-s", "--skip",  help="Number of players to skip",type=int, default = 0, dest = "s", action = "store")
 parser.add_argument("-m", "--minimum-at-bats",  help="Print the player at bats per home run instead of batting average",type=int, action = "store", default = 3000, dest = "m")
 args = parser.parse_args()
 #print(args)
