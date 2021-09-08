@@ -68,6 +68,9 @@ Selected works
 ---
 
 ### Presentations 
+- [Toxic Tweets: Examining Characteristics of Donald Trump's Tweets](https://docs.google.com/presentation/d/e/2PACX-1vQpZ-G10HuwvUFdegtEUQqJhtMvnsSX7FH7PrQuC-ORmZwrPX11vswoz1SM_WgWKLpj1P7OzveoC0CW/pub?start=false&loop=false)
+- [Identifying Real and Fake Disasters from Tweets](https://docs.google.com/presentation/d/e/2PACX-1vQ92GeYQ6XL9GfDXweJjBbSICf4dwWdq__7cKWKUeVEG4oDMQb7cwwitLACS2VD2u0leJCTfjYQOJI5/pub?start=false&loop=false)
+- [COVID-19 Impacts on the USA](https://docs.google.com/presentation/d/e/2PACX-1vTprfVhOA2mX2_quaBP42-FPqJ-gd46Hx8Nn2t3L0w2Gb7LThMHFaM7vRAOWQulvzLJ4rheBxJ7KCR8/pub?start=false&loop=false)
 - [Mission Statements](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/Mission%20Statements.pptx?raw=true)
 - [NERA: Faculty Feedback on a Proposed Measure of Non-Cognitive/Soft-Skills Features for Use in Graduate Schools](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/JLB%20NERA%20Faculty%20Feedback%20on%20a%20Proposed%20Measure%20of%20Non-Cognitive%20v2.pptx?raw=true)
 - [Universities and Data Analytics](https://github.com/jbochenek/jbochenek.github.io/blob/master/Presentations/Universities%20and%20Data%20Analytics.pptx?raw=true)
@@ -75,6 +78,7 @@ Selected works
 ---
 
 ### Papers
+- [Toxic Tweets: Examining Characteristics of Donald Trump's Tweets](https://github.com/jbochenek/jbochenek.github.io/blob/master/Papers/Data%20Reports/Toxic%20Tweets_%20Examining%20characteristics%20of%20Donald%20Trump's%20tweets.pdf)
 - [SQL: Development of an Educational Assessment Database](https://github.com/jbochenek/jbochenek.github.io/blob/master/Papers/SQL/Write-up%20of%20a%20SQL%20database.pdf)
 - [Data Visualization: Review of MOOC platforms](https://github.com/jbochenek/jbochenek.github.io/blob/master/Papers/MOOC%20Data%20Visualization%20Paper/Review%20of%20MOOC%20Platforms.pdf)
 - [Orange: Data Mining in Orange](https://github.com/jbochenek/jbochenek.github.io/tree/master/Papers/Orange)
