@@ -3,12 +3,19 @@ Selected works
 
 ---
 
-### Data Visualizations
+### Data Science Articles
 
 ---
 
 [COVID-19: Impacts on Housing Security Across the US](https://jbochenek.medium.com/covid-19-impact-on-housing-security-across-the-u-s-6c9d787ce2d)
 <img src="images/covidweeklytotalpositiveper.gif?raw=true"/>
+
+---
+
+[BERT for identifying disasters from tweets](https://medium.com/analytics-vidhya/bert-for-identifying-disasters-from-tweets-50eeb6844302)
+<img src=""/>
+
+### Data Visualizations
 
 ---
 
