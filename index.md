@@ -13,7 +13,7 @@ Selected works
 ---
 
 [BERT for identifying disasters from tweets](https://medium.com/analytics-vidhya/bert-for-identifying-disasters-from-tweets-50eeb6844302)
-<img src="images/target0.png?raw=true"/>
+<img src="images/target1.png?raw=true"/>
 
 ### Data Visualizations
 
